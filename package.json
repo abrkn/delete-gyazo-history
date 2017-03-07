@@ -1,0 +1,15 @@
+{
+  "name": "delete-gyazo-history",
+  "version": "1.0.0",
+  "description": "Delete your entire Gyazo history",
+  "main": "index.js",
+  "keywords": [
+    "gyazo"
+  ],
+  "author": "Andreas Brekken <andreas@brekken.com>",
+  "license": "ISC",
+  "dependencies": {
+    "async": "2.1.5",
+    "request": "2.80.0"
+  }
+}
